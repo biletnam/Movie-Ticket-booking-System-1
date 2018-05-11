@@ -6,6 +6,8 @@ A DBMS project that implements a movie booking system making use of PHP, HTML ,C
 * This project aims to implement a movie ticket booking system making use of a web front end and a MySQL backend.
 * The project makes use of a combination of HTML, PHP, CSS and Bootstrap on the front end section.
 * A sample of 5 movies are up for booking.
+* Each movie has its own page with movie details and an option to make a booking.
+* Feature to book tickets in multiple theaters with multiple show timings have been provided.
 * Functionalities such as user login, user authentication, ticket cancellation etc have also been added.
 * Two SQL triggers and stored procedures have been used for handling the ticket booking and cancelling aspect.
 * All requisite data is stored onto tables in a MySQL server database.
